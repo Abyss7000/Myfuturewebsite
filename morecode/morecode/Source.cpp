@@ -4,14 +4,10 @@
 #include <ctime> 
 #include <stdio.h>
 using namespace std;
-int main()
-	//let's add something interesting.
-{
-	cout << "hello world :D" << endl;
-	system("pause");
-	return 0;
-}
-int main_program() {
+int main() {
+	//added this on github
+	//deleted first program on desktop
+	//works fine onto commit
 	int a, b;
 	a = 1000;
 	b = 9999;
